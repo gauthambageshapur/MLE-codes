@@ -1,2 +1,5 @@
 This is a new feature branch
+<<<<<<< HEAD
 This line from main branch
+=======
+
